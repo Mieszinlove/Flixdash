@@ -1,0 +1,35 @@
+{
+    "Correlated": [
+        49,
+        26,
+        28,
+        18,
+        53
+    ],
+    "Meta": {
+        "Id": 23,
+        "Plot": "Unknown",
+        "Poster": "https://123-bijles.nl/placeholder.jpg",
+        "Release-Year": "2001",
+        "Title": "Clifford: Clifford Saves the Day! / Clifford's Fluffiest Friend Cleo"
+    },
+    "Ratings": {
+        "2002": [
+            239,
+            73
+        ],
+        "2003": [
+            274,
+            80
+        ],
+        "2004": [
+            593,
+            164
+        ],
+        "2005": [
+            1081,
+            298
+        ]
+    },
+    "Time": 1530258702113
+}

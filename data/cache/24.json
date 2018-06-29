@@ -1,0 +1,35 @@
+{
+    "Correlated": [
+        35,
+        11,
+        2,
+        26,
+        28
+    ],
+    "Meta": {
+        "Id": 24,
+        "Plot": "Tom returns to his hometown on the tenth anniversary of the Valentine's night massacre that claimed the lives of 22 people. Instead of a homecoming, Tom finds himself suspected of committing the murders, and it seems like his old flame is the only one that believes he's innocent.",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMTY2MTQ1OTcxOF5BMl5BanBnXkFtZTcwMjc2ODUxMg@@._V1_SX300.jpg",
+        "Release-Year": "1981",
+        "Title": "My Bloody Valentine"
+    },
+    "Ratings": {
+        "2002": [
+            242,
+            94
+        ],
+        "2003": [
+            549,
+            199
+        ],
+        "2004": [
+            1234,
+            418
+        ],
+        "2005": [
+            1966,
+            622
+        ]
+    },
+    "Time": 1530258702450
+}

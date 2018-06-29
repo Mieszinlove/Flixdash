@@ -1,0 +1,31 @@
+{
+    "Correlated": [
+        49,
+        36,
+        26,
+        53,
+        21
+    ],
+    "Meta": {
+        "Id": 52,
+        "Plot": "The remarkable story of The Weather Underground, radical activists of the 1970s, and of radical politics at its best and most disastrous.",
+        "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI2MTU5Njc3M15BMl5BanBnXkFtZTcwNzA2NzUyMQ@@._V1_SX300.jpg",
+        "Release-Year": "2002",
+        "Title": "The Weather Underground"
+    },
+    "Ratings": {
+        "2003": [
+            39,
+            11
+        ],
+        "2004": [
+            9018,
+            2419
+        ],
+        "2005": [
+            10281,
+            2717
+        ]
+    },
+    "Time": 1530258754480
+}

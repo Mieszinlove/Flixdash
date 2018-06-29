@@ -1,0 +1,43 @@
+{
+    "Correlated": [
+        49,
+        66,
+        32,
+        26,
+        28
+    ],
+    "Meta": {
+        "Id": 67,
+        "Plot": "Avenging vampire stalks a king of the vampires in Eastern Europe, slaughters anyone who gets in his way.",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMTUyNjc1OTQ1MV5BMl5BanBnXkFtZTcwNzc4OTAyMQ@@._V1_SX300.jpg",
+        "Release-Year": "1997",
+        "Title": "Vampire Journals"
+    },
+    "Ratings": {
+        "2000": [
+            18,
+            8
+        ],
+        "2001": [
+            29,
+            12
+        ],
+        "2002": [
+            31,
+            13
+        ],
+        "2003": [
+            129,
+            60
+        ],
+        "2004": [
+            315,
+            115
+        ],
+        "2005": [
+            217,
+            81
+        ]
+    },
+    "Time": 1530258765142
+}

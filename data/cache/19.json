@@ -1,0 +1,35 @@
+{
+    "Correlated": [
+        49,
+        36,
+        26,
+        37,
+        69
+    ],
+    "Meta": {
+        "Id": 19,
+        "Plot": "The crew of a nuclear bomber attack the Soviet Union while the President of the United States tries desperately to regain control of his military after his helicopter crashes during a ...",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BY2M4Y2UxYmItNzc0ZS00Y2NkLWIyMGMtZDc3NmU0NjZjMzhhL2ltYWdlXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_SX300.jpg",
+        "Release-Year": "2000",
+        "Title": "By Dawn's Early Light"
+    },
+    "Ratings": {
+        "2002": [
+            115,
+            38
+        ],
+        "2003": [
+            535,
+            157
+        ],
+        "2004": [
+            546,
+            160
+        ],
+        "2005": [
+            596,
+            184
+        ]
+    },
+    "Time": 1530258701382
+}

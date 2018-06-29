@@ -1,0 +1,27 @@
+{
+    "Correlated": [
+        49,
+        36,
+        26,
+        28,
+        69
+    ],
+    "Meta": {
+        "Id": 8,
+        "Plot": "Unknown",
+        "Poster": "https://123-bijles.nl/placeholder.jpg",
+        "Release-Year": "2004",
+        "Title": "What the #$*! Do We Know!?"
+    },
+    "Ratings": {
+        "2004": [
+            182,
+            45
+        ],
+        "2005": [
+            47378,
+            14865
+        ]
+    },
+    "Time": 1530258324518
+}

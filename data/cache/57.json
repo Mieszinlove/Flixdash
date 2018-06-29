@@ -1,0 +1,43 @@
+{
+    "Correlated": [
+        66,
+        39,
+        0,
+        35,
+        15
+    ],
+    "Meta": {
+        "Id": 57,
+        "Plot": "The classic Shakespearean play about a murderously scheming king staged in an alternative fascist England setting.",
+        "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI3MzMwMzIxMF5BMl5BanBnXkFtZTYwNTM0Nzc5._V1_SX300.jpg",
+        "Release-Year": "1995",
+        "Title": "Richard III"
+    },
+    "Ratings": {
+        "2000": [
+            303,
+            83
+        ],
+        "2001": [
+            779,
+            216
+        ],
+        "2002": [
+            767,
+            221
+        ],
+        "2003": [
+            1804,
+            506
+        ],
+        "2004": [
+            4203,
+            1117
+        ],
+        "2005": [
+            5247,
+            1419
+        ]
+    },
+    "Time": 1530258755327
+}

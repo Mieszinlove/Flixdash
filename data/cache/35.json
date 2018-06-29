@@ -1,0 +1,31 @@
+{
+    "Correlated": [
+        49,
+        26,
+        28,
+        69,
+        8
+    ],
+    "Meta": {
+        "Id": 35,
+        "Plot": "The fairies of FernGully must venture outside the rain forest to rescue several young animals who were captured by poachers.",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BODU3OTQwNzQ3OV5BMl5BanBnXkFtZTcwNzgxMTEzMQ@@._V1_SX300.jpg",
+        "Release-Year": "2000",
+        "Title": "Ferngully 2: The Magical Rescue"
+    },
+    "Ratings": {
+        "2003": [
+            330,
+            117
+        ],
+        "2004": [
+            1078,
+            351
+        ],
+        "2005": [
+            1231,
+            371
+        ]
+    },
+    "Time": 1530258726286
+}

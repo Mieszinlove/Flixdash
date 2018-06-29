@@ -1,0 +1,35 @@
+{
+    "Correlated": [
+        49,
+        26,
+        37,
+        36,
+        53
+    ],
+    "Meta": {
+        "Id": 28,
+        "Plot": "Unknown",
+        "Poster": "https://123-bijles.nl/placeholder.jpg",
+        "Release-Year": "2002",
+        "Title": "Lilo and Stitch"
+    },
+    "Ratings": {
+        "2002": [
+            2977,
+            782
+        ],
+        "2003": [
+            39721,
+            10633
+        ],
+        "2004": [
+            43394,
+            11307
+        ],
+        "2005": [
+            65890,
+            17030
+        ]
+    },
+    "Time": 1530258325369
+}

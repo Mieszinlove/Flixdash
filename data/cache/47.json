@@ -1,0 +1,39 @@
+{
+    "Correlated": [
+        49,
+        66,
+        4,
+        0,
+        22
+    ],
+    "Meta": {
+        "Id": 47,
+        "Plot": "An unscrupulous movie producer uses an actress, a director and a writer to achieve success.",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BYmRmMmIyYWQtYTJkNS00OTIzLTg0ZTEtMThkN2U2ZjE0ZjVkXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg",
+        "Release-Year": "1952",
+        "Title": "The Bad and the Beautiful"
+    },
+    "Ratings": {
+        "2001": [
+            6,
+            2
+        ],
+        "2002": [
+            1045,
+            317
+        ],
+        "2003": [
+            1892,
+            593
+        ],
+        "2004": [
+            2304,
+            701
+        ],
+        "2005": [
+            2429,
+            737
+        ]
+    },
+    "Time": 1530258742745
+}

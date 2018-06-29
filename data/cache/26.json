@@ -1,0 +1,27 @@
+{
+    "Correlated": [
+        49,
+        36,
+        69,
+        37,
+        28
+    ],
+    "Meta": {
+        "Id": 26,
+        "Plot": "A drug kingpin's return home touches off a turf war.",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMTM3NzAyMDEzNV5BMl5BanBnXkFtZTcwOTIwMDUyMQ@@._V1_SX300.jpg",
+        "Release-Year": "2004",
+        "Title": "Never Die Alone"
+    },
+    "Ratings": {
+        "2004": [
+            12506,
+            4552
+        ],
+        "2005": [
+            3868,
+            1309
+        ]
+    },
+    "Time": 1530258713581
+}

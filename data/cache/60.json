@@ -1,0 +1,35 @@
+{
+    "Correlated": [
+        49,
+        28,
+        69,
+        26,
+        36
+    ],
+    "Meta": {
+        "Id": 60,
+        "Plot": "The story of John Wilmot, a.k.a. the Earl of Rochester, a 17th century poet who famously drank and debauched his way to an early grave, only to earn posthumous critical acclaim for his life's work.",
+        "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTE5MTQ4ODQzNl5BMl5BanBnXkFtZTYwMDIxNTQ3._V1_SX300.jpg",
+        "Release-Year": "1969",
+        "Title": "The Libertine"
+    },
+    "Ratings": {
+        "2002": [
+            63,
+            35
+        ],
+        "2003": [
+            270,
+            120
+        ],
+        "2004": [
+            117,
+            59
+        ],
+        "2005": [
+            184,
+            81
+        ]
+    },
+    "Time": 1530258324722
+}

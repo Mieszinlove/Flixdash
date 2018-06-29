@@ -1,0 +1,31 @@
+{
+    "Correlated": [
+        49,
+        26,
+        69,
+        62,
+        28
+    ],
+    "Meta": {
+        "Id": 36,
+        "Plot": "A French adaptation of the second (and much less well-known) version of D.H. Lawrence's erotic tale.",
+        "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM1NDg2NzE1OV5BMl5BanBnXkFtZTcwMjIyMzU1MQ@@._V1_SX300.jpg",
+        "Release-Year": "1992",
+        "Title": "Lady Chatterley"
+    },
+    "Ratings": {
+        "2003": [
+            180,
+            61
+        ],
+        "2004": [
+            1152,
+            374
+        ],
+        "2005": [
+            1504,
+            504
+        ]
+    },
+    "Time": 1530258325066
+}

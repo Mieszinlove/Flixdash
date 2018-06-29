@@ -1,0 +1,39 @@
+{
+    "Correlated": [
+        66,
+        39,
+        35,
+        2,
+        44
+    ],
+    "Meta": {
+        "Id": 43,
+        "Plot": "The crew of Japan's first nuclear submarine mutinies and deliberately creates an international incident with the United States.",
+        "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU5MTk3MTQxOF5BMl5BanBnXkFtZTcwNDAzMjkyMQ@@._V1_SX300.jpg",
+        "Release-Year": "2000",
+        "Title": "Silent Service"
+    },
+    "Ratings": {
+        "2001": [
+            27,
+            13
+        ],
+        "2002": [
+            63,
+            25
+        ],
+        "2003": [
+            81,
+            30
+        ],
+        "2004": [
+            48,
+            19
+        ],
+        "2005": [
+            51,
+            18
+        ]
+    },
+    "Time": 1530258742068
+}

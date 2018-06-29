@@ -1,0 +1,31 @@
+{
+    "Correlated": [
+        28,
+        0,
+        37,
+        35,
+        30
+    ],
+    "Meta": {
+        "Id": 11,
+        "Plot": "Unknown",
+        "Poster": "https://123-bijles.nl/placeholder.jpg",
+        "Release-Year": "1999",
+        "Title": "Full Frame: Documentary Shorts"
+    },
+    "Ratings": {
+        "2003": [
+            69,
+            25
+        ],
+        "2004": [
+            294,
+            94
+        ],
+        "2005": [
+            237,
+            79
+        ]
+    },
+    "Time": 1530258634086
+}

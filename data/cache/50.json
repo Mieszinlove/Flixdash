@@ -1,0 +1,39 @@
+{
+    "Correlated": [
+        39,
+        3,
+        10,
+        8,
+        61
+    ],
+    "Meta": {
+        "Id": 50,
+        "Plot": "An American pilot impulsively joins Her Majesty's Royal Air Force in Britain in an attempt to impress his ex-girlfriend.",
+        "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjk0ZWIyM2ItZjU4ZC00OGJjLTk1N2ItNzgxOGIxZjQxYWI1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_SX300.jpg",
+        "Release-Year": "1941",
+        "Title": "A Yank in the R.A.F."
+    },
+    "Ratings": {
+        "2001": [
+            2,
+            1
+        ],
+        "2002": [
+            139,
+            49
+        ],
+        "2003": [
+            257,
+            91
+        ],
+        "2004": [
+            308,
+            98
+        ],
+        "2005": [
+            287,
+            89
+        ]
+    },
+    "Time": 1530258754317
+}

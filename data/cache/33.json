@@ -1,0 +1,31 @@
+{
+    "Correlated": [
+        49,
+        36,
+        26,
+        69,
+        21
+    ],
+    "Meta": {
+        "Id": 33,
+        "Plot": "Unknown",
+        "Poster": "https://123-bijles.nl/placeholder.jpg",
+        "Release-Year": "2000",
+        "Title": "Aqua Teen Hunger Force: Vol. 1"
+    },
+    "Ratings": {
+        "2003": [
+            609,
+            145
+        ],
+        "2004": [
+            7596,
+            1808
+        ],
+        "2005": [
+            20517,
+            4937
+        ]
+    },
+    "Time": 1530258725846
+}

@@ -1,0 +1,31 @@
+{
+    "Correlated": [
+        49,
+        26,
+        28,
+        36,
+        18
+    ],
+    "Meta": {
+        "Id": 4,
+        "Plot": "Unknown",
+        "Poster": "https://123-bijles.nl/placeholder.jpg",
+        "Release-Year": "1994",
+        "Title": "Paula Abdul's Get Up & Dance"
+    },
+    "Ratings": {
+        "2003": [
+            9,
+            7
+        ],
+        "2004": [
+            238,
+            80
+        ],
+        "2005": [
+            142,
+            55
+        ]
+    },
+    "Time": 1530258567649
+}

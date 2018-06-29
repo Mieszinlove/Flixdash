@@ -1,0 +1,43 @@
+{
+    "Correlated": [
+        66,
+        39,
+        4,
+        5,
+        0
+    ],
+    "Meta": {
+        "Id": 12,
+        "Plot": "Shortly before his execution on the death row in San Quentin, amateur sleuth and baby photographer Ronnie Jackson, tells reporters how he got there.",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BZWViOWUxY2EtOTVmMC00NWYwLTk2ZWQtYmM5YjE5YmQzZDBmL2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg",
+        "Release-Year": "1947",
+        "Title": "My Favorite Brunette"
+    },
+    "Ratings": {
+        "2000": [
+            48,
+            17
+        ],
+        "2001": [
+            80,
+            25
+        ],
+        "2002": [
+            146,
+            51
+        ],
+        "2003": [
+            235,
+            72
+        ],
+        "2004": [
+            482,
+            136
+        ],
+        "2005": [
+            875,
+            245
+        ]
+    },
+    "Time": 1530258634290
+}

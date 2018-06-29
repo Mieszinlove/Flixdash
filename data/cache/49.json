@@ -1,0 +1,31 @@
+{
+    "Correlated": [
+        28,
+        36,
+        26,
+        69,
+        37
+    ],
+    "Meta": {
+        "Id": 49,
+        "Plot": "Unknown",
+        "Poster": "https://123-bijles.nl/placeholder.jpg",
+        "Release-Year": "2003",
+        "Title": "Devo: The Complete Truth About De-evolution"
+    },
+    "Ratings": {
+        "2003": [
+            58,
+            17
+        ],
+        "2004": [
+            431,
+            120
+        ],
+        "2005": [
+            358,
+            94
+        ]
+    },
+    "Time": 1530258743049
+}

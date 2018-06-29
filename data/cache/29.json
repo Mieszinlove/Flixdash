@@ -1,0 +1,39 @@
+{
+    "Correlated": [
+        39,
+        35,
+        66,
+        2,
+        5
+    ],
+    "Meta": {
+        "Id": 29,
+        "Plot": "Black Americans boycott the public buses during the 1950s civil rights movement.",
+        "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwNDU2NzUyN15BMl5BanBnXkFtZTcwODg0MjkyMQ@@._V1_SX300.jpg",
+        "Release-Year": "2001",
+        "Title": "Boycott"
+    },
+    "Ratings": {
+        "2001": [
+            14,
+            4
+        ],
+        "2002": [
+            253,
+            77
+        ],
+        "2003": [
+            279,
+            82
+        ],
+        "2004": [
+            483,
+            132
+        ],
+        "2005": [
+            853,
+            228
+        ]
+    },
+    "Time": 1530258714220
+}

@@ -1,0 +1,43 @@
+{
+    "Correlated": [
+        49,
+        26,
+        28,
+        69,
+        21
+    ],
+    "Meta": {
+        "Id": 18,
+        "Plot": "The life and death of the legendary Ludwig van Beethoven. Besides all the work he is known for, the composer once wrote a famous love letter to a nameless beloved, and the movie tries to ...",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BNzE3NjQ4MTQyNV5BMl5BanBnXkFtZTYwOTU1MDg4._V1_SX300.jpg",
+        "Release-Year": "1994",
+        "Title": "Immortal Beloved"
+    },
+    "Ratings": {
+        "2000": [
+            1191,
+            341
+        ],
+        "2001": [
+            2054,
+            588
+        ],
+        "2002": [
+            1351,
+            369
+        ],
+        "2003": [
+            3908,
+            1064
+        ],
+        "2004": [
+            10789,
+            2802
+        ],
+        "2005": [
+            21283,
+            5558
+        ]
+    },
+    "Time": 1530258701054
+}

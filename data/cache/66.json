@@ -1,0 +1,39 @@
+{
+    "Correlated": [
+        49,
+        28,
+        36,
+        37,
+        18
+    ],
+    "Meta": {
+        "Id": 66,
+        "Plot": "Unknown",
+        "Poster": "https://123-bijles.nl/placeholder.jpg",
+        "Release-Year": "1989",
+        "Title": "Barbarian Queen 2"
+    },
+    "Ratings": {
+        "2001": [
+            2,
+            1
+        ],
+        "2002": [
+            72,
+            37
+        ],
+        "2003": [
+            58,
+            26
+        ],
+        "2004": [
+            124,
+            52
+        ],
+        "2005": [
+            125,
+            50
+        ]
+    },
+    "Time": 1530258765040
+}

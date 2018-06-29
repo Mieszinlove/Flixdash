@@ -1,0 +1,47 @@
+{
+    "Correlated": [
+        18,
+        26,
+        11,
+        69,
+        68
+    ],
+    "Meta": {
+        "Id": 46,
+        "Plot": "A misfit reindeer and his friends look for a place that will accept them.",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BYjdjZjkyYjUtOWJiZC00ZTE2LTk4MDktZjliOTk5ZDk5ZTZhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+        "Release-Year": "1964",
+        "Title": "Rudolph the Red-Nosed Reindeer"
+    },
+    "Ratings": {
+        "1999": [
+            5,
+            2
+        ],
+        "2000": [
+            1818,
+            508
+        ],
+        "2001": [
+            4376,
+            1201
+        ],
+        "2002": [
+            13008,
+            3491
+        ],
+        "2003": [
+            355,
+            84
+        ],
+        "2004": [
+            3013,
+            708
+        ],
+        "2005": [
+            2388,
+            564
+        ]
+    },
+    "Time": 1530258742417
+}

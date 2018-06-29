@@ -1,0 +1,35 @@
+{
+    "Correlated": [
+        49,
+        37,
+        38,
+        36,
+        26
+    ],
+    "Meta": {
+        "Id": 64,
+        "Plot": "A drama about the Algerian struggle for independence from France after WWII.",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMTg5NzY0MTkwOV5BMl5BanBnXkFtZTcwNjU4NzcwNA@@._V1_SX300.jpg",
+        "Release-Year": "2001",
+        "Title": "Outside the Law"
+    },
+    "Ratings": {
+        "2002": [
+            49,
+            19
+        ],
+        "2003": [
+            63,
+            27
+        ],
+        "2004": [
+            59,
+            28
+        ],
+        "2005": [
+            59,
+            21
+        ]
+    },
+    "Time": 1530258764516
+}

@@ -1,0 +1,27 @@
+{
+    "Correlated": [
+        66,
+        39,
+        35,
+        0,
+        22
+    ],
+    "Meta": {
+        "Id": 27,
+        "Plot": "Unknown",
+        "Poster": "https://123-bijles.nl/placeholder.jpg",
+        "Release-Year": "1962",
+        "Title": "Sesame Street: Elmo's World: The Street We Live On"
+    },
+    "Ratings": {
+        "2004": [
+            226,
+            68
+        ],
+        "2005": [
+            737,
+            205
+        ]
+    },
+    "Time": 1530258713880
+}

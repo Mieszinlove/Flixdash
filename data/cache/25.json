@@ -1,0 +1,31 @@
+{
+    "Correlated": [
+        49,
+        21,
+        36,
+        18,
+        41
+    ],
+    "Meta": {
+        "Id": 25,
+        "Plot": "Unknown",
+        "Poster": "https://123-bijles.nl/placeholder.jpg",
+        "Release-Year": "1997",
+        "Title": "Inspector Morse 31: Death Is Now My Neighbour"
+    },
+    "Ratings": {
+        "2003": [
+            134,
+            36
+        ],
+        "2004": [
+            1678,
+            413
+        ],
+        "2005": [
+            2980,
+            758
+        ]
+    },
+    "Time": 1530258713185
+}

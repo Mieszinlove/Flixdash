@@ -1,0 +1,27 @@
+{
+    "Correlated": [
+        26,
+        55,
+        28,
+        18,
+        46
+    ],
+    "Meta": {
+        "Id": 2,
+        "Plot": "Unknown",
+        "Poster": "https://123-bijles.nl/placeholder.jpg",
+        "Release-Year": "2004",
+        "Title": "Isle of Man TT 2004 Review"
+    },
+    "Ratings": {
+        "2004": [
+            59,
+            17
+        ],
+        "2005": [
+            457,
+            128
+        ]
+    },
+    "Time": 1530258550596
+}

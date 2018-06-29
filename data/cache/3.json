@@ -1,0 +1,31 @@
+{
+    "Correlated": [
+        49,
+        36,
+        26,
+        21,
+        53
+    ],
+    "Meta": {
+        "Id": 3,
+        "Plot": "Jacob Katadreuffe lives mute with his mother, has no contact with his father who only works against him and wants to become a lawyer, at all costs.",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMjE4OTA5NjU4Nl5BMl5BanBnXkFtZTcwMTMyMzkyMQ@@._V1_SX300.jpg",
+        "Release-Year": "1997",
+        "Title": "Character"
+    },
+    "Ratings": {
+        "2003": [
+            2563,
+            711
+        ],
+        "2004": [
+            2705,
+            734
+        ],
+        "2005": [
+            2058,
+            567
+        ]
+    },
+    "Time": 1530258567342
+}

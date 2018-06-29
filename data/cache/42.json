@@ -1,0 +1,31 @@
+{
+    "Correlated": [
+        49,
+        36,
+        28,
+        53,
+        21
+    ],
+    "Meta": {
+        "Id": 42,
+        "Plot": "A young woman, coping with the death of her father, embarks on a quest to meet a Hollywood star with whom she has become obsessed.",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMTc0NDQyMTc1N15BMl5BanBnXkFtZTcwNTA3NTAwMQ@@._V1_SX300.jpg",
+        "Release-Year": "2002",
+        "Title": "Searching for Paradise"
+    },
+    "Ratings": {
+        "2003": [
+            23,
+            14
+        ],
+        "2004": [
+            164,
+            65
+        ],
+        "2005": [
+            111,
+            49
+        ]
+    },
+    "Time": 1530258326061
+}

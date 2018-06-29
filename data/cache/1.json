@@ -1,0 +1,27 @@
+{
+    "Correlated": [
+        49,
+        26,
+        36,
+        28,
+        69
+    ],
+    "Meta": {
+        "Id": 1,
+        "Plot": "A four-episode animated series charting the adventures of four dinosaurs - each on a different continent in the prehistoric world: a lone female Velociraptor in Asia; a young male ...",
+        "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTY2MDk5ODE0OV5BMl5BanBnXkFtZTcwNTMxNzQyMQ@@._V1_SX300.jpg",
+        "Release-Year": "2003",
+        "Title": "Dinosaur Planet"
+    },
+    "Ratings": {
+        "2004": [
+            714,
+            199
+        ],
+        "2005": [
+            1337,
+            348
+        ]
+    },
+    "Time": 1530258550369
+}

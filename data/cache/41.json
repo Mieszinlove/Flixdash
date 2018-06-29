@@ -1,0 +1,39 @@
+{
+    "Correlated": [
+        49,
+        36,
+        26,
+        21,
+        53
+    ],
+    "Meta": {
+        "Id": 41,
+        "Plot": "Unknown",
+        "Poster": "https://123-bijles.nl/placeholder.jpg",
+        "Release-Year": "2000",
+        "Title": "Horror Vision"
+    },
+    "Ratings": {
+        "2001": [
+            39,
+            29
+        ],
+        "2002": [
+            47,
+            27
+        ],
+        "2003": [
+            15,
+            10
+        ],
+        "2004": [
+            23,
+            13
+        ],
+        "2005": [
+            28,
+            14
+        ]
+    },
+    "Time": 1530258324605
+}

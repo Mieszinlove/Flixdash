@@ -1,0 +1,35 @@
+{
+    "Correlated": [
+        49,
+        36,
+        21,
+        69,
+        26
+    ],
+    "Meta": {
+        "Id": 10,
+        "Plot": "Aicha, a high-school student, is a passionate kung fu fighter. Her Turkish parents expect her to get good grades so she can get into medical school, like her brother Ali. But school doesn't...",
+        "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzMzMmJhM2YtMzNlYS00YTg0LTgyYjctYzQwMGQyN2E5ODg5XkEyXkFqcGdeQXVyMTUxMTU5NjQ@._V1_SX300.jpg",
+        "Release-Year": "2001",
+        "Title": "Fighter"
+    },
+    "Ratings": {
+        "2002": [
+            37,
+            13
+        ],
+        "2003": [
+            231,
+            72
+        ],
+        "2004": [
+            289,
+            90
+        ],
+        "2005": [
+            235,
+            74
+        ]
+    },
+    "Time": 1530258324195
+}

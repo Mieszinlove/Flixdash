@@ -1,0 +1,31 @@
+{
+    "Correlated": [
+        49,
+        5,
+        55,
+        2,
+        35
+    ],
+    "Meta": {
+        "Id": 51,
+        "Plot": "Unknown",
+        "Poster": "https://123-bijles.nl/placeholder.jpg",
+        "Release-Year": "2002",
+        "Title": "Jonah: A VeggieTales Movie: Bonus Material"
+    },
+    "Ratings": {
+        "2003": [
+            228,
+            66
+        ],
+        "2004": [
+            74,
+            19
+        ],
+        "2005": [
+            19,
+            5
+        ]
+    },
+    "Time": 1530258754397
+}

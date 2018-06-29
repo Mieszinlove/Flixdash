@@ -1,0 +1,31 @@
+{
+    "Correlated": [
+        36,
+        26,
+        37,
+        69,
+        21
+    ],
+    "Meta": {
+        "Id": 62,
+        "Plot": "Unknown",
+        "Poster": "https://123-bijles.nl/placeholder.jpg",
+        "Release-Year": "1991",
+        "Title": "Ken Burns' America: Empire of the Air"
+    },
+    "Ratings": {
+        "2003": [
+            66,
+            20
+        ],
+        "2004": [
+            498,
+            136
+        ],
+        "2005": [
+            487,
+            134
+        ]
+    },
+    "Time": 1530258764325
+}

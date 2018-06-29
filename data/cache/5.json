@@ -1,0 +1,27 @@
+{
+    "Correlated": [
+        49,
+        28,
+        36,
+        26,
+        37
+    ],
+    "Meta": {
+        "Id": 5,
+        "Plot": "Unknown",
+        "Poster": "https://123-bijles.nl/placeholder.jpg",
+        "Release-Year": "2004",
+        "Title": "The Rise and Fall of ECW"
+    },
+    "Ratings": {
+        "2004": [
+            489,
+            112
+        ],
+        "2005": [
+            3979,
+            1028
+        ]
+    },
+    "Time": 1530258616499
+}

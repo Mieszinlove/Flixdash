@@ -1,0 +1,31 @@
+{
+    "Correlated": [
+        49,
+        36,
+        28,
+        69,
+        59
+    ],
+    "Meta": {
+        "Id": 22,
+        "Plot": "A failed Hollywood actor returns to his home town in Wisconsin and reminisces about his life in L.A. to a potential new girlfriend about his faults, auditions, misadventures, and confrontations with the evils of Hollywood.",
+        "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkwNDg4NTc3NV5BMl5BanBnXkFtZTcwODU0NTQyMQ@@._V1_SX300.jpg",
+        "Release-Year": "2000",
+        "Title": "Chump Change"
+    },
+    "Ratings": {
+        "2003": [
+            1,
+            1
+        ],
+        "2004": [
+            377,
+            166
+        ],
+        "2005": [
+            78,
+            36
+        ]
+    },
+    "Time": 1530258701787
+}
